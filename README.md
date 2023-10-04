@@ -1,4 +1,4 @@
-- 👋 Oi, meu nome é Davi Guerra e meu Github é @darthoprodigio
+- 👋 Oi, meu nome é Davi Guerra e meu Github é @darthoprodigio, estou no 2° semestre de Sistemas de Informação
 - 👀 Estou interessado em trabalhar com programação
 - 🌱 Estou aprendendo HTML, CSS e JavaScript
 - 💞️ Tenho interesse em trabalhar em qualquer área da tecnologia
