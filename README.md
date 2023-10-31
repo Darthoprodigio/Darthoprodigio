@@ -1,6 +1,6 @@
-- 👋 Oi, meu nome é Davi Guerra e meu Github é @darthoprodigio, estou no 2° semestre de Sistemas de Informação
+- 👋 Oi, meu nome é Davi Guerra e meu Github é @daviguerram, estou no 2° semestre de Sistemas de Informação
 - 👀 Estou interessado em trabalhar com programação
-- 🌱 Estou aprendendo HTML, CSS e JavaScript
+- 🌱 Estou me aprofundando em  HTML, CSS , JavaScript, Java e WordPress
 - 💞️ Tenho interesse em trabalhar em qualquer área da tecnologia
 - 📫 Me chame através do e-mail : daviguerram17@gmail.com
 
