@@ -1,5 +1,5 @@
-- 👋 Oi, meu nome é Davi Guerra e meu Github é @daviguerram, estou no 2° semestre de Sistemas de Informação
-- 👀 Estou interessado em trabalhar com programação
+- 👋 Oi, meu nome é Davi Guerra e meu Github é @daviguerram, estou no 3° semestre de Sistemas de Informação
+- ✨ Estagiário do PRODAUB no setor de help-desk
 - 🌱 Estou me aprofundando em  HTML, CSS , JavaScript, Java e WordPress
 - 💞️ Tenho interesse em trabalhar em qualquer área da tecnologia
 - 📫 Me chame através do e-mail : daviguerram17@gmail.com
